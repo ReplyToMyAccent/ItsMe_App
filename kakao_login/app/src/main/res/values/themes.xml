@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Kakao_login" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_40</item>
+        <item name="colorPrimaryDark">@color/purple_40</item>
+        <item name="colorAccent">@color/purple_40</item>
+    </style>
+</resources>
